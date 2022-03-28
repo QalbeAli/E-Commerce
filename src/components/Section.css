@@ -1,0 +1,116 @@
+.image1 {
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.section{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    text-align: start;
+    gap: 3rem;
+    padding: 5rem 8rem;
+    border-radius: 2rem;
+}
+.right_section{
+    
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 1rem;
+    margin: 3rem;
+    justify-content: start;
+    padding: 1rem ;
+    align-items: flex-start;
+    margin-bottom: 10rem ;
+}
+p{
+    font-size: 1rem;
+    
+}
+span{
+    font-weight: lighter;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.image img {
+    margin-left: 10rem ;
+    justify-self: start;
+    align-self: flex-start;
+    
+    
+    
+}
+
+.Sneaker {
+    font-size: 2rem;
+}
+
+.Discount {
+    padding: 1rem 0;
+    margin-right: 15rem;
+    
+}
+.Discount span:nth-child(2) {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-left: 2rem;
+    
+    
+}
+
+.Discount span {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.Sneaker {
+    font-weight: bold;
+    color: gold;
+}
+
+.Count  {
+
+ border-radius: 5px;
+ background-color: silver;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ 
+
+}
+
+.Count button {
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: 30px;
+    
+}
+.Count span {
+    padding: 0.5rem 1rem;
+}
+
+
+.roola {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.CartButton {
+    padding: 0.5rem 1rem;
+    margin: 1rem;
+    background-color: hsl(26, 100%, 55%);
+}.goback {
+    background-color: hsl(26, 100%, 55%);
+    margin: 1rem;
+    padding: 1rem;
+}
+
+
+

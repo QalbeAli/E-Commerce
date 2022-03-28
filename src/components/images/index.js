@@ -1,0 +1,1 @@
+import {defaults as images} from './Images'
